@@ -8,7 +8,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stintheshe11&layout=compact&theme=dark)
 
-### Joke of the Day
-> ![Joke](https://v2.jokeapi.dev/joke/Any?format=img&type=twopart)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=gh0stintheshe11&color=blue)
