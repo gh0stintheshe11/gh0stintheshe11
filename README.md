@@ -9,7 +9,7 @@ An Engineer, love tinkering
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gh0stintheshe11&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gh0stintheshe11&theme=flat&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gh0stintheshe11&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Quote of the Day
 > ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
