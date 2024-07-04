@@ -5,5 +5,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gh0stintheshe11&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stintheshe11&layout=compact&theme=dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=gh0stintheshe11&color=blue)
