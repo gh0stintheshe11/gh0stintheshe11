@@ -4,8 +4,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gh0stintheshe11&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
 
-<<<<<<< HEAD
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stintheshe11&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
-=======
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stintheshe11&layout=compact&theme=dark)
->>>>>>> 01794a4d7480a8a148a294e1a02c22b0e4cf1ff5
