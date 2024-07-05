@@ -2,4 +2,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gh0stintheshe11&include_all_commits=true&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&rank_icon=percentile&text_color=f8e602&icon_color=00f0ff&ring_color=00f0ff&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stintheshe11&layout=donut-vertical&theme=dark&hide_border=true&bg_color=00000000&langs_count=20&hide_title=true&size_weight=0.5&count_weight=0.5&text_color=f8e602)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stintheshe11&layout=donut-vertical&theme=dark&hide_border=true&bg_color=00000000&langs_count=20&hide_title=true&size_weight=0.5&count_weight=0.5&text_color=00f0ff)
